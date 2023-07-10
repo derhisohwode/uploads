@@ -9,3 +9,5 @@
 ![Untitled](https://user-images.githubusercontent.com/122604894/234314894-ef5366cd-0e41-489e-ab37-f8b73b03ef79.png)
 ![GRDS-Services-](https://user-images.githubusercontent.com/122604894/234587696-8088ef6a-7f5c-4fdb-80cc-c8b37120f06f.gif)
 ![grds background color](https://user-images.githubusercontent.com/122604894/234823147-8626cb06-86af-416a-8822-6aebab26c59d.png)
+![Group 20](https://github.com/derhisohwode/uploads/assets/122604894/d78a4aea-763e-4f0b-b882-c4dca1907111)
+![logo1](https://github.com/derhisohwode/uploads/assets/122604894/db7d83ef-6c76-4cf8-865b-e9df62de1e0a)
