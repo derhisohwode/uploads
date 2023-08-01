@@ -11,3 +11,4 @@
 ![grds background color](https://user-images.githubusercontent.com/122604894/234823147-8626cb06-86af-416a-8822-6aebab26c59d.png)
 ![Group 20](https://github.com/derhisohwode/uploads/assets/122604894/d78a4aea-763e-4f0b-b882-c4dca1907111)
 ![logo1](https://github.com/derhisohwode/uploads/assets/122604894/db7d83ef-6c76-4cf8-865b-e9df62de1e0a)
+![loader](https://github.com/derhisohwode/uploads/assets/122604894/23778156-4b12-4c67-965b-fe10bd25fe3c)
