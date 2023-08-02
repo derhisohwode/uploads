@@ -12,3 +12,5 @@
 ![Group 20](https://github.com/derhisohwode/uploads/assets/122604894/d78a4aea-763e-4f0b-b882-c4dca1907111)
 ![logo1](https://github.com/derhisohwode/uploads/assets/122604894/db7d83ef-6c76-4cf8-865b-e9df62de1e0a)
 ![loader](https://github.com/derhisohwode/uploads/assets/122604894/23778156-4b12-4c67-965b-fe10bd25fe3c)
+![preloader](https://github.com/derhisohwode/uploads/assets/122604894/83f4f3c1-dfa5-4ace-85ec-37d72b63ccd6)
+![ajax-loader](https://github.com/derhisohwode/uploads/assets/122604894/26c8e8ae-0281-45e7-a8ab-20815d36607b)
