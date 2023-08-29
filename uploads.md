@@ -1,5 +1,4 @@
 ![6](https://github.com/derhisohwode/uploads/assets/122604894/d6bb38b2-3761-4138-9d53-e984323b5635)
-![8](https://github.com/derhisohwode/uploads/assets/122604894/06c8aecd-6b4b-404e-9e25-d3607ac23136)
-![7](https://github.com/derhisohwode/uploads/assets/122604894/b9897bdd-133a-4fcc-afd5-3ccbe7a5b24c)
-![10](https://github.com/derhisohwode/uploads/assets/122604894/4734488b-83b9-4fee-9c0a-997036368256)
-![9](https://github.com/derhisohwode/uploads/assets/122604894/cbab2a0b-f6b4-4b8e-82f4-c0d7a9af8464)
+![grds](https://github.com/derhisohwode/uploads/assets/122604894/758d6dcd-51a4-47c5-9b41-fd8998fe8e0f)
+![grds2](https://github.com/derhisohwode/uploads/assets/122604894/de1b2651-cb2c-466b-b407-49ffb52b211f)
+![grds3](https://github.com/derhisohwode/uploads/assets/122604894/7f70e17d-5f9c-4ed7-9fc6-4aed0c005e8a)
